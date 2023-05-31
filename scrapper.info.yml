@@ -1,5 +1,5 @@
-  name: Scrapper
-  description: Provides a scrapper for the site.
-  type: module
-  core_version_requirement: ^10
-  package: Custom
+name: Scrapper
+description: Provides a scrapper for the site.
+type: module
+core_version_requirement: ^10
+package: Custom
