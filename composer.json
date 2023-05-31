@@ -1,5 +1,5 @@
 {
-    "name": "NicolaeGrigoriu/scrapper",
+    "name": "nicolaegrigoriu/scrapper",
     "type": "drupal-custom-module",
     "description": "Provides functionality scrapping content from sites.",
     "minimum-stability": "dev"
