@@ -1,11 +1,11 @@
 <?php
 
-namespace Drupal\scrapper;
+namespace Drupal\scrapper\Plugin;
 
 use Drupal\Component\Plugin\PluginInspectionInterface;
 use Drupal\Core\Annotation\Translation;
 
-interface ScrapperPluginInterface extends PluginInspectionInterface {
+interface WorkerPluginInterface extends PluginInspectionInterface {
 
   /**
    * Returns the ID of the scrapper.

@@ -1,0 +1,4 @@
+services:
+  plugin.manager.scrapper_worker:
+    class: Drupal\scrapper\Plugin\WorkerPluginManager
+    parent: default_plugin_manager
